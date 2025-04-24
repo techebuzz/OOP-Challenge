@@ -29,26 +29,63 @@ Create a class called `Pet` with the following:
 ---
 
 ## 📝 How to Complete
-
-1. Fork or clone this repo.
-2. Write your `Pet` class in `pet.py`.
-3. In `main.py`, create a pet object and call its methods to test functionality.
-4. Submit a GitHub repo or a zipped folder with your code and a screenshot of the output.
+1. `Pet` class in `pet.py`.
+2. `main.py`, create a pet object and call its methods to test functionality.
+   
 
 ---
 
-## ✅ Sample Output
+## ✅ Output
 
 ```bash
-Creating pet: Max
-Max is eating...
-Max is playing...
-Max is sleeping...
-Max's current status:
-Hunger: 2
-Energy: 8
-Happiness: 9
-Tricks: ['roll over', 'play dead']
+Welcome to Virtual Pet Game! You have a new pet named Buddy!
+
+Initial status:
+
+Status of Buddy:        
+Hunger: 5/10 
+Energy: 10/10 
+Happiness: 5/10         
+
+
+Let's play with our pet!
+Buddy had fun playing!  
+
+Status of Buddy:        
+Hunger: 6/10 
+Energy: 8/10 
+Happiness: 7/10         
+
+
+Time to eat!
+Buddy has eaten and is feeling better!
+
+Status of Buddy:
+Hunger: 3/10
+Energy: 8/10
+Happiness: 8/10 😊
+
+
+Let's teach some tricks!
+Buddy learned how to sit!
+Buddy learned how to roll over!
+Buddy learned how to fetch!
+Buddy's tricks: sit, roll over, fetch
+
+Status of Buddy:
+Hunger: 3/10
+Energy: 5/10
+Happiness: 10/10 😊
+
+
+Time for a nap!
+Buddy had a good sleep and is now energized!
+
+Status of Buddy:
+Hunger: 3/10
+Energy: 10/10
+Happiness: 10/10 😊
+
 
 
 ### 💡 Tips
